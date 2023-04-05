@@ -1,4 +1,4 @@
-# StartHack_Companiability
+# StartHack_Compainability
 
 CompainabilityCompainability
 START is the Hack Europe's leading hackathon for aspiring tech entrepreneurs. 
